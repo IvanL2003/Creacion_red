@@ -1,0 +1,25 @@
+# Dataset de imágenes
+dataset/
+
+# Archivos generados por el entrenamiento
+hand_dataset.csv
+hand_gesture_model.h5
+hand_gesture_model.tflite
+label_map.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

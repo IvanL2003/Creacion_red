@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"C:/Users/ivanl/Desktop/Creacion_red/hand_gesture_model.tflite\" \"C:/Users/ivanl/AndroidStudioProjects/proyecto_v1_0/android/app/src/main/assets/\")",
+      "Bash(cp \"C:/Users/ivanl/Desktop/Creacion_red/label_map.json\" \"C:/Users/ivanl/AndroidStudioProjects/proyecto_v1_0/android/app/src/main/assets/\")"
+    ]
+  }
+}
